@@ -2,6 +2,7 @@
 
 - ` btw its hell like microsoft really did what microsoft do best `
  --- 
+
 1. look for which model you are using:
 	- 
 2. go to ![](https://support.microsoft.com/en-us/surface-recovery-image) to download the iso 
