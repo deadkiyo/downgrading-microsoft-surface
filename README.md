@@ -13,7 +13,8 @@
 4. from here own there's 2 method:
    - the most easy one is using the inbuild microsoft tool called recovery drive which comes with win
      - you need to install the file on a microsoft system 
-     - after seting up you can't use linux system to transfer the file from
+     	- ps:(after seting up you can't use linux system to transfer the file from since it dones't pick up the pendrive om linux)
+     - 
    - the second one is less good but can be done from a linux system
      - make the pendrive into a fat32 then
      - un zip the file and send it to the pendrive
