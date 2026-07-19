@@ -10,4 +10,11 @@
 	- ps:(you need a microsoft account to download the iso since they locked it behind a account)
 	- also need a pendrive more then 20gb, for my model its 11gb your's maybe more depending on the model
 3. the file will be downloaded as a zip 
-4. 
+4. from here own there's 2 method:
+   - the most easy one is using the inbuild microsoft tool called recovery drive which comes with win
+     - you need to install the file on a microsoft system 
+     - after seting up you can't use linux system to transfer the file from
+   - the second one is less good but can be done from a linux system
+     - make the pendrive into a fat32 then
+     - un zip the file and send it to the pendrive
+     - ps:(i cant myself. i tryid this but didnt work it didnt pick up the pendrive files at all)
