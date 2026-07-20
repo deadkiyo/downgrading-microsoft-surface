@@ -14,10 +14,15 @@
    - the most easy one is using the inbuild microsoft tool called recovery drive which comes with win
      - you need to install the file on a microsoft system 
      	- ps:(after seting up you can't use linux system to transfer the file from since it dones't pick up the pendrive om linux)
-     - 
+     -  MAKE SURE THE FILES ARE NOT INSIDE A FOLDER
+     ---  
    - the second one is less good but can be done from a linux system
      - make the pendrive into a fat32 then
      - un zip the file and send it to the pendrive
      - ps:(i cant myself. i tryid this but didnt work it didnt pick up the pendrive files at all)
 ``day 2 i was a DUMB A$$ LOL``
-	 - MAKE SURE THE FILES ARE NOT INSIDE A FOLDER 
+	 - MAKE SURE THE FILES ARE NOT INSIDE A FOLDER
+- this is how it looks
+  	- ![](https://github.com/deadkiyo/downgrading-microsoft-surface/blob/main/pendrive.jpeg) 
+5. now just boot from the pendrive and it should work without any problem
+6. you need to use a physical keyboard the first time becu bluetooth is not on by default
