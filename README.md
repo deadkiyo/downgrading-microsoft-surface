@@ -19,3 +19,5 @@
      - make the pendrive into a fat32 then
      - un zip the file and send it to the pendrive
      - ps:(i cant myself. i tryid this but didnt work it didnt pick up the pendrive files at all)
+``day 2 i was a DUMB A$$ LOL``
+	 - MAKE SURE THE FILES ARE NOT INSIDE A FOLDER 
